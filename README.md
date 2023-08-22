@@ -18,3 +18,6 @@ create scheduler for project and managing all services
 3. Open your project directory in `php_schedule_service/projects`
 4. Create code PHP your function /process in file `php_schedule_service/projects/your-project-name/functions.php`
 5. Jalankan file `schedule_bath.cmd`
+
+## Capture
+<img src="scheduler-service.png"/>
